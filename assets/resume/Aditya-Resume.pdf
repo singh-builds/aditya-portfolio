@@ -1,939 +1,144 @@
 %PDF-1.4
-%âãÏÓ
+%“Œ‹ž ReportLab Generated PDF document (opensource)
 1 0 obj
 <<
-/Producer (pypdf)
+/F1 2 0 R /F2 3 0 R /F3 8 0 R
 >>
 endobj
 2 0 obj
 <<
-/Type /Pages
-/Count 2
-/Kids [ 4 0 R 14 0 R ]
+/BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font
 >>
 endobj
 3 0 obj
 <<
-/Type /Catalog
-/Pages 2 0 R
+/BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font
 >>
 endobj
 4 0 obj
 <<
-/Annots [ 5 0 R 6 0 R 7 0 R 8 0 R 9 0 R ]
-/Contents 10 0 R
-/MediaBox [ 0 0 595.2756 841.8898 ]
-/Resources <<
-/Font <<
-/F1 11 0 R
-/F1-0 12 0 R
-/F2 13 0 R
->>
-/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
->>
-/Rotate 0
-/Trans <<
->>
-/Type /Page
-/Parent 2 0 R
+/A <<
+/S /URI /Type /Action /URI (https://singh-builds.github.io/aditya-portfolio/)
+>> /Border [ 0 0 0 ] /Rect [ 239.9685 788.5298 392.1387 797.8898 ] /Subtype /Link /Type /Annot
 >>
 endobj
 5 0 obj
 <<
 /A <<
-/S /URI
-/Type /Action
-/URI (tel\072\053919082038785)
->>
-/Border [ 0 0 0 ]
-/Rect [ 173.1677 755.8498 246.6005 767.1298 ]
-/Subtype /Link
-/Type /Annot
+/S /URI /Type /Action /URI (mailto:adityasingh.dev8@gmail.com)
+>> /Border [ 0 0 0 ] /Rect [ 265.9893 778.5298 367.9743 787.8898 ] /Subtype /Link /Type /Annot
 >>
 endobj
 6 0 obj
 <<
 /A <<
-/S /URI
-/Type /Action
-/URI (mailto\072adityasingh\056dev8\100gmail\056com)
->>
-/Border [ 0 0 0 ]
-/Rect [ 259.4973 755.8498 382.4023 767.1298 ]
-/Subtype /Link
-/Type /Annot
+/S /URI /Type /Action /URI (https://github.com/singh-builds)
+>> /Border [ 0 0 0 ] /Rect [ 378.6759 778.5298 460.6071 787.8898 ] /Subtype /Link /Type /Annot
 >>
 endobj
 7 0 obj
 <<
 /A <<
-/S /URI
-/Type /Action
-/URI (https\072\057\057github\056com\057singh\055builds)
->>
-/Border [ 0 0 0 ]
-/Rect [ 395.2991 755.8498 494.0367 767.1298 ]
-/Subtype /Link
-/Type /Annot
+/S /URI /Type /Action /URI (https://github.com/singh-builds/smart-timetable-planner)
+>> /Border [ 0 0 0 ] /Rect [ 512.5284 580.8148 553.2756 590.8148 ] /Subtype /Link /Type /Annot
 >>
 endobj
 8 0 obj
 <<
-/A <<
-/S /URI
-/Type /Action
-/URI (https\072\057\057singh\055builds\056github\056io\057aditya\055portfolio\057)
->>
-/Border [ 0 0 0 ]
-/Rect [ 239.9077 740.8498 395.0735 752.1298 ]
-/Subtype /Link
-/Type /Annot
+/BaseFont /Helvetica-Oblique /Encoding /WinAnsiEncoding /Name /F3 /Subtype /Type1 /Type /Font
 >>
 endobj
 9 0 obj
 <<
 /A <<
-/S /URI
-/Type /Action
-/URI (https\072\057\057singh\055builds\056github\056io\057aditya\055portfolio\057)
->>
-/Border [ 0 0 0 ]
-/Rect [ 107.7725 134.9798 264.589 146.3798 ]
-/Subtype /Link
-/Type /Annot
+/S /URI /Type /Action /URI (https://github.com/singh-builds/CampusFlow)
+>> /Border [ 0 0 0 ] /Rect [ 512.5284 516.0148 553.2756 526.0148 ] /Subtype /Link /Type /Annot
 >>
 endobj
 10 0 obj
 <<
-/Length 8324
+/A <<
+/S /URI /Type /Action /URI (https://github.com/singh-builds/RailReserve)
+>> /Border [ 0 0 0 ] /Rect [ 512.5284 461.8148 553.2756 471.8148 ] /Subtype /Link /Type /Annot
 >>
-stream
-q
-1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
-q
-BT /F1 8 Tf 9.6 TL ET
-BT 1 0 0 1 284.9618 30.24 Tm (Page 1) Tj T* ET
-Q
-q
-1 0 0 1 57.84 771.1298 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 4 Tm /F2 19 Tf 23 TL 130.5383 0 Td (ADITYA RAJESH SINGH) Tj T* -130.5383 0 Td ET
-Q
-Q
-q
-1 0 0 1 57.84 755.1298 cm
-q
-0 0 0 RG
-n 115.3277 1.425 m 188.7605 1.425 l S
-n 201.6573 1.425 m 324.5623 1.425 l S
-n 337.4591 1.425 m 436.1967 1.425 l S
-BT 1 0 0 1 0 2.6 Tm 43.3989 0 Td 12 TL /F1 9.4 Tf 0 0 0 rg (Mumbai, India  ) Tj (|) Tj (  ) Tj (+91 90820 38785) Tj (  ) Tj (|) Tj (  ) Tj (adityasingh.dev8@gmail.com) Tj (  ) Tj (|) Tj (  ) Tj (github.com/singh-builds) Tj T* -43.3989 0 Td ET
-Q
-Q
-q
-1 0 0 1 57.84 752.1298 cm
-Q
-q
-1 0 0 1 57.84 740.1298 cm
-q
-0 0 0 RG
-n 182.0677 1.425 m 337.2335 1.425 l S
-BT 1 0 0 1 0 2.6 Tm 142.3621 0 Td 12 TL /F1 9.4 Tf 0 0 0 rg (Portfolio: ) Tj (singh-builds.github.io/aditya-portfolio/) Tj T* -142.3621 0 Td ET
-Q
-Q
-q
-1 0 0 1 57.84 735.1298 cm
-Q
-q
-1 0 0 1 57.84 711.1298 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2.8 Tm /F2 12.2 Tf 15 TL (SUMMARY) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.84 707.6798 cm
-q
-0 0 0 rg
-BT /F1 10 Tf 12 TL ET
-BT 1 0 0 1 0 2 Tm  T* ET
-q
-1 J
-1 j
-0 0 0 RG
-.45 w
-n 0 .45 m 491.5956 .45 l S
-Q
-Q
-Q
-q
-1 0 0 1 57.84 704.6798 cm
-Q
-q
-1 0 0 1 57.84 652.6798 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 42.3 Tm /F1 9.7 Tf 13 TL (B.Sc. Information Technology student with hands-on experience building web applications using HTML, CSS,) Tj T* -0.017909 Tw (JavaScript, Bootstrap, Node.js, Express, and MySQL. Interested in web development, practical problem solving,) Tj T* 0 Tw (and creating applications that address real-world needs. Uses AI tools as a learning and development aid for) Tj T* (debugging, understanding concepts, and improving project implementation.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 57.84 647.6798 cm
-Q
-q
-1 0 0 1 57.84 623.6798 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2.8 Tm /F2 12.2 Tf 15 TL (TECHNICAL SKILLS) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.84 620.2298 cm
-q
-0 0 0 rg
-BT /F1 10 Tf 12 TL ET
-BT 1 0 0 1 0 2 Tm  T* ET
-q
-1 J
-1 j
-0 0 0 RG
-.45 w
-n 0 .45 m 491.5956 .45 l S
-Q
-Q
-Q
-q
-1 0 0 1 57.84 617.2298 cm
-Q
-q
-1 0 0 1 51.84 523.6298 cm
-q
-0 0 0 rg
-BT /F1 10 Tf 12 TL ET
-q
-1 0 0 1 0 79.3 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3.3 Tm /F2 9.7 Tf 13 TL (Programming) Tj T* ET
-Q
-Q
-q
-1 0 0 1 86.4 79.3 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3.3 Tm /F1 9.7 Tf 13 TL (Java, Python, JavaScript \(Basic\), SQL) Tj T* ET
-Q
-Q
-q
-1 0 0 1 0 63.7 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3.3 Tm /F2 9.7 Tf 13 TL (Web Development) Tj T* ET
-Q
-Q
-q
-1 0 0 1 86.4 63.7 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3.3 Tm /F1 9.7 Tf 13 TL (HTML5, CSS3, Bootstrap, Node.js, Express) Tj T* ET
-Q
-Q
-q
-1 0 0 1 0 48.1 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3.3 Tm /F2 9.7 Tf 13 TL (Database) Tj T* ET
-Q
-Q
-q
-1 0 0 1 86.4 48.1 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3.3 Tm /F1 9.7 Tf 13 TL (MySQL) Tj T* ET
-Q
-Q
-q
-1 0 0 1 0 32.5 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3.3 Tm /F2 9.7 Tf 13 TL (Cloud) Tj T* ET
-Q
-Q
-q
-1 0 0 1 86.4 32.5 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3.3 Tm /F1 9.7 Tf 13 TL (AWS, EC2, Cloud Computing Fundamentals) Tj T* ET
-Q
-Q
-q
-1 0 0 1 0 16.9 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3.3 Tm /F2 9.7 Tf 13 TL (Tools) Tj T* ET
-Q
-Q
-q
-1 0 0 1 86.4 16.9 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3.3 Tm /F1 9.7 Tf 13 TL (VS Code, GitHub, RAPTOR) Tj T* ET
-Q
-Q
-q
-1 0 0 1 0 1.3 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3.3 Tm /F2 9.7 Tf 13 TL (Other) Tj T* ET
-Q
-Q
-q
-1 0 0 1 86.4 1.3 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3.3 Tm /F1 9.7 Tf 13 TL (REST APIs, Basic Multithreading, Java Swing, Socket Programming) Tj T* ET
-Q
-Q
-q
-Q
-Q
-Q
-q
-1 0 0 1 57.84 518.6298 cm
-Q
-q
-1 0 0 1 57.84 494.6298 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2.8 Tm /F2 12.2 Tf 15 TL (PROJECTS) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.84 491.1798 cm
-q
-0 0 0 rg
-BT /F1 10 Tf 12 TL ET
-BT 1 0 0 1 0 2 Tm  T* ET
-q
-1 J
-1 j
-0 0 0 RG
-.45 w
-n 0 .45 m 491.5956 .45 l S
-Q
-Q
-Q
-q
-1 0 0 1 57.84 488.1798 cm
-Q
-q
-1 0 0 1 57.84 468.9798 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2.9 Tm /F2 10.3 Tf 13.2 TL (Smart Timetable Planner - Full-Stack Academic Planner) Tj T* ET
-Q
-Q
-q
-1 0 0 1 57.84 455.8798 cm
-q
-BT 1 0 0 1 0 2.9 Tm 12.1 TL /F2 9.2 Tf 0 0 0 rg (Technologies:) Tj /F1 9.2 Tf ( HTML, CSS, Bootstrap, JavaScript, Node.js, Express, MySQL) Tj T* ET
-Q
-Q
-q
-1 0 0 1 57.84 429.6798 cm
-q
-0 0 0 rg
-BT 1 0 0 1 12 15.7 Tm /F1 9.5 Tf 12.6 TL -8 0 Td (- Developed a full-stack academic planning website that generates study schedules based on exam dates,) Tj T* 8 0 Td (available study hours, topic duration, and priority.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 57.84 416.0798 cm
-q
-0 0 0 rg
-BT 1 0 0 1 12 3.1 Tm /F1 9.5 Tf 12.6 TL -8 0 Td (- Implemented user registration, login, topic management, and CRUD operations through a REST API.) Tj T* 8 0 Td ET
-Q
-Q
-q
-1 0 0 1 57.84 389.8798 cm
-q
-0 0 0 rg
-BT 1 0 0 1 12 15.7 Tm /F1 9.5 Tf 12.6 TL -8 0 Td (- Connected the application to MySQL and implemented priority-based timetable generation with revision) Tj T* 8 0 Td (planning.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 57.84 370.6798 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2.9 Tm /F2 10.3 Tf 13.2 TL (GameZone - Gaming Community Website) Tj T* ET
-Q
-Q
-q
-1 0 0 1 57.84 357.5798 cm
-q
-BT 1 0 0 1 0 2.9 Tm 12.1 TL /F2 9.2 Tf 0 0 0 rg (Technologies:) Tj /F1 9.2 Tf ( HTML, CSS, Bootstrap, JavaScript) Tj T* ET
-Q
-Q
-q
-1 0 0 1 57.84 343.9798 cm
-q
-0 0 0 rg
-BT 1 0 0 1 12 3.1 Tm /F1 9.5 Tf 12.6 TL -8 0 Td (- Developed a responsive gaming cafe and community website with multiple interactive pages.) Tj T* 8 0 Td ET
-Q
-Q
-q
-1 0 0 1 57.84 317.7798 cm
-q
-0 0 0 rg
-BT 1 0 0 1 12 15.7 Tm /F1 9.5 Tf 12.6 TL -8 0 Td (- Created gaming-slot booking forms, accessories cart functionality, gift-card pages, and responsive Bootstrap) Tj T* 8 0 Td (layouts.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 57.84 304.1798 cm
-q
-0 0 0 rg
-BT 1 0 0 1 12 3.1 Tm /F1 9.5 Tf 12.6 TL -8 0 Td (- Implemented front-end interactions and demonstration workflows for bookings and shopping features.) Tj T* 8 0 Td ET
-Q
-Q
-q
-1 0 0 1 57.84 284.9798 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2.9 Tm /F2 10.3 Tf 13.2 TL (JavaChatApp - Client-Server Chat Application) Tj T* ET
-Q
-Q
-q
-1 0 0 1 57.84 271.8798 cm
-q
-BT 1 0 0 1 0 2.9 Tm 12.1 TL /F2 9.2 Tf 0 0 0 rg (Technologies:) Tj /F1 9.2 Tf ( Java, Swing, Socket Programming, Multithreading) Tj T* ET
-Q
-Q
-q
-1 0 0 1 57.84 245.6798 cm
-q
-0 0 0 rg
-BT 1 0 0 1 12 15.7 Tm /F1 9.5 Tf 12.6 TL -8 0 Td (- Developed a client-server chat application with a graphical interface for messaging and online-user) Tj T* 8 0 Td (management.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 57.84 232.0798 cm
-q
-0 0 0 rg
-BT 1 0 0 1 12 3.1 Tm /F1 9.5 Tf 12.6 TL -8 0 Td (- Implemented multi-client communication, broadcast messaging, user status updates, and private messaging.) Tj T* 8 0 Td ET
-Q
-Q
-q
-1 0 0 1 57.84 212.8798 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2.9 Tm /F2 10.3 Tf 13.2 TL (Aditya Portfolio - Personal Developer Portfolio) Tj T* ET
-Q
-Q
-q
-1 0 0 1 57.84 199.7798 cm
-q
-BT 1 0 0 1 0 2.9 Tm 12.1 TL /F2 9.2 Tf 0 0 0 rg (Technologies:) Tj /F1 9.2 Tf ( HTML, CSS, JavaScript) Tj T* ET
-Q
-Q
-q
-1 0 0 1 57.84 173.5798 cm
-q
-0 0 0 rg
-BT 1 0 0 1 12 15.7 Tm /F1 9.5 Tf 12.6 TL -8 0 Td (- Developed a responsive personal portfolio website to showcase projects, technical skills, education,) Tj T* 8 0 Td (certifications, and contact information.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 57.84 147.3798 cm
-q
-0 0 0 rg
-BT 1 0 0 1 12 15.7 Tm /F1 9.5 Tf 12.6 TL -8 0 Td (- Designed a mobile-friendly interface with dark mode, interactive navigation, and direct links to project) Tj T* 8 0 Td (repositories and certificates.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 57.84 133.7798 cm
-q
-0 0 0 RG
-n 49.9325 1.9125 m 206.749 1.9125 l S
-BT 1 0 0 1 12 3.1 Tm -8 0 Td 12.6 TL /F1 9.5 Tf 0 0 0 rg (- Portfolio: ) Tj (singh-builds.github.io/aditya-portfolio/) Tj T* 8 0 Td ET
-Q
-Q
-q
-1 0 0 1 57.84 127.7798 cm
-Q
-q
-1 0 0 1 57.84 103.7798 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2.8 Tm /F2 12.2 Tf 15 TL (EDUCATION) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.84 100.3298 cm
-q
-0 0 0 rg
-BT /F1 10 Tf 12 TL ET
-BT 1 0 0 1 0 2 Tm  T* ET
-q
-1 J
-1 j
-0 0 0 RG
-.45 w
-n 0 .45 m 491.5956 .45 l S
-Q
-Q
-Q
-q
-1 0 0 1 57.84 97.32976 cm
-Q
-q
-1 0 0 1 57.84 81.82976 cm
-q
-BT 1 0 0 1 0 2.7 Tm 12.5 TL /F2 9.8 Tf 0 0 0 rg (KES' B.K. Shroff College of Arts & M.H. Shroff College of Commerce, Mumbai) Tj T* ET
-Q
-Q
-q
-1 0 0 1 57.84 69.62976 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2.7 Tm /F1 9.5 Tf 12.2 TL (B.Sc. Information Technology | Expected 2027) Tj T* ET
-Q
-Q
-q
-1 0 0 1 57.84 54.12976 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2.7 Tm /F2 9.8 Tf 12.5 TL (KES Shroff Junior College, Mumbai) Tj T* ET
-Q
-Q
- 
-
-Q
-
-q
-0.0 0.0 595.2756 841.8898 re
-W
-n
-1 0 0 1 0 0 cm
-BT
-/F1-0 12 Tf
-14.4 TL
-ET
-1 1 1 rg
-n
-35 45 525 105 re
-f*
-Q
-
-
-endstream
 endobj
 11 0 obj
 <<
-/BaseFont /Helvetica
-/Encoding /WinAnsiEncoding
-/Name /F1
-/Subtype /Type1
-/Type /Font
+/A <<
+/S /URI /Type /Action /URI (https://github.com/singh-builds/Game-Zone)
+>> /Border [ 0 0 0 ] /Rect [ 512.5284 418.2148 553.2756 428.2148 ] /Subtype /Link /Type /Annot
 >>
 endobj
 12 0 obj
 <<
-/BaseFont /Helvetica
-/Encoding /WinAnsiEncoding
-/Name /F1
-/Subtype /Type1
-/Type /Font
+/A <<
+/S /URI /Type /Action /URI (https://github.com/singh-builds/JavaChatApp)
+>> /Border [ 0 0 0 ] /Rect [ 512.5284 364.0148 553.2756 374.0148 ] /Subtype /Link /Type /Annot
 >>
 endobj
 13 0 obj
 <<
-/BaseFont /Helvetica-Bold
-/Encoding /WinAnsiEncoding
-/Name /F2
-/Subtype /Type1
-/Type /Font
+/Annots [ 4 0 R 5 0 R 6 0 R 7 0 R 9 0 R 10 0 R 11 0 R 12 0 R ] /Contents 17 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 16 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
 >>
 endobj
 14 0 obj
 <<
-/Contents 15 0 R
-/MediaBox [ 0 0 595.2756 841.8898 ]
-/Resources <<
-/Font <<
-/F1 11 0 R
-/F1-0 16 0 R
-/F1-1 17 0 R
-/F2 13 0 R
-/F2-0 18 0 R
-/F2-1 19 0 R
->>
-/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
->>
-/Rotate 0
-/Trans <<
->>
-/Type /Page
-/Annots [ ]
-/Parent 2 0 R
+/PageMode /UseNone /Pages 16 0 R /Type /Catalog
 >>
 endobj
 15 0 obj
 <<
-/Length 4474
+/Author (Aditya Rajesh Singh) /CreationDate (D:20261006134104+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20261006134104+00'00') /Producer (ReportLab PDF Library - \(opensource\)) 
+  /Subject (\(unspecified\)) /Title (Aditya Rajesh Singh - Resume) /Trapped /False
 >>
-stream
-q
-q
-1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
-q
-BT /F1 8 Tf 9.6 TL ET
-BT 1 0 0 1 284.9618 30.24 Tm (Page 2) Tj T* ET
-Q
-q
-1 0 0 1 57.84 781.9298 cm
-q
-BT 1 0 0 1 0 2.7 Tm 12.2 TL /F1 9.5 Tf 0 0 0 rg (HSC - 79.40% | Information Technology & Mathematics) Tj T* ET
-Q
-Q
-q
-1 0 0 1 57.84 766.4298 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2.7 Tm /F2 9.8 Tf 12.5 TL (Swami Vivekanand International School, Kandivali, Mumbai) Tj T* ET
-Q
-Q
-q
-1 0 0 1 57.84 754.2298 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2.7 Tm /F1 9.5 Tf 12.2 TL (SSC - 83.00%) Tj T* ET
-Q
-Q
-q
-1 0 0 1 57.84 749.2298 cm
-Q
-q
-1 0 0 1 57.84 725.2298 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2.8 Tm /F2 12.2 Tf 15 TL (CERTIFICATIONS) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.84 721.7798 cm
-q
-0 0 0 rg
-BT /F1 10 Tf 12 TL ET
-BT 1 0 0 1 0 2 Tm  T* ET
-q
-1 J
-1 j
-0 0 0 RG
-.45 w
-n 0 .45 m 491.5956 .45 l S
-Q
-Q
-Q
-q
-1 0 0 1 57.84 718.7798 cm
-Q
-q
-1 0 0 1 57.84 706.1798 cm
-q
-BT 1 0 0 1 12 3.1 Tm -8 0 Td 12.6 TL /F1 9.5 Tf 0 0 0 rg (- DevOps Essentials - L) Tj (&T;) Tj T* 8 0 Td ET
-Q
-Q
-q
-1 0 0 1 57.84 692.5798 cm
-q
-BT 1 0 0 1 12 3.1 Tm -8 0 Td 12.6 TL /F1 9.5 Tf 0 0 0 rg (- Generative AI, ChatGPT & Prompt Engineering) Tj T* 8 0 Td ET
-Q
-Q
-q
-1 0 0 1 57.84 678.9798 cm
-q
-0 0 0 rg
-BT 1 0 0 1 12 3.1 Tm /F1 9.5 Tf 12.6 TL -8 0 Td (- Ethical Hacking) Tj T* 8 0 Td ET
-Q
-Q
-q
-1 0 0 1 57.84 665.3798 cm
-q
-0 0 0 rg
-BT 1 0 0 1 12 3.1 Tm /F1 9.5 Tf 12.6 TL -8 0 Td (- SWAYAM - Project Management by Skill India) Tj T* 8 0 Td ET
-Q
-Q
-q
-1 0 0 1 57.84 659.3798 cm
-Q
-q
-1 0 0 1 57.84 635.3798 cm
-q
-BT 1 0 0 1 0 2.8 Tm 15 TL /F2 12.2 Tf 0 0 0 rg (LEADERSHIP & ACHIEVEMENTS) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.84 631.9298 cm
-q
-0 0 0 rg
-BT /F1 10 Tf 12 TL ET
-BT 1 0 0 1 0 2 Tm  T* ET
-q
-1 J
-1 j
-0 0 0 RG
-.45 w
-n 0 .45 m 491.5956 .45 l S
-Q
-Q
-Q
-q
-1 0 0 1 57.84 628.9298 cm
-Q
-q
-1 0 0 1 57.84 603.7298 cm
-q
-BT 1 0 0 1 12 15.7 Tm -8 0 Td 12.6 TL /F1 9.5 Tf 0 0 0 rg (- ) Tj /F2 9.5 Tf (DLLE:) Tj /F1 9.5 Tf ( Head / management role in the Department of Lifelong Learning & Extension, involved in coordinating) Tj T* 8 0 Td (and managing departmental activities.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 57.84 577.5298 cm
-q
-BT 1 0 0 1 12 15.7 Tm -8 0 Td 12.6 TL /F1 9.5 Tf 0 0 0 rg (- ) Tj /F2 9.5 Tf (Sports:) Tj /F1 9.5 Tf ( Participated in DSO-level Cricket during school and Table Tennis during college; received trophies) Tj T* 8 0 Td (through intercollegiate sports competitions.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 57.84 571.5298 cm
-Q
-q
-1 0 0 1 57.84 547.5298 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2.8 Tm /F2 12.2 Tf 15 TL (LANGUAGES) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.84 544.0798 cm
-q
-0 0 0 rg
-BT /F1 10 Tf 12 TL ET
-BT 1 0 0 1 0 2 Tm  T* ET
-q
-1 J
-1 j
-0 0 0 RG
-.45 w
-n 0 .45 m 491.5956 .45 l S
-Q
-Q
-Q
-q
-1 0 0 1 57.84 541.0798 cm
-Q
-q
-1 0 0 1 57.84 528.0798 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3.3 Tm /F1 9.7 Tf 13 TL (English, Hindi, Marathi; Gujarati \(understanding\).) Tj T* ET
-Q
-Q
-q
-1 0 0 1 57.84 523.0798 cm
-Q
-q
-1 0 0 1 57.84 499.0798 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2.8 Tm /F2 12.2 Tf 15 TL (INTERESTS) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.84 495.6298 cm
-q
-0 0 0 rg
-BT /F1 10 Tf 12 TL ET
-BT 1 0 0 1 0 2 Tm  T* ET
-q
-1 J
-1 j
-0 0 0 RG
-.45 w
-n 0 .45 m 491.5956 .45 l S
-Q
-Q
-Q
-q
-1 0 0 1 57.84 492.6298 cm
-Q
-q
-1 0 0 1 57.84 467.4298 cm
-q
-0 0 0 rg
-BT 1 0 0 1 12 15.7 Tm /F1 9.5 Tf 12.6 TL -8 0 Td (- Web Development, Software Development, AI-assisted development, and solving real-world problems through) Tj T* 8 0 Td (technology.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 57.84 463.4298 cm
-Q
-q
-1 0 0 1 57.84 450.8298 cm
-q
-0 0 0 rg
-BT 1 0 0 1 12 3.1 Tm /F1 9.5 Tf 12.6 TL -8 0 Td (- Seeking Software Development / Web Development internship opportunities.) Tj T* 8 0 Td ET
-Q
-Q
- 
-
-Q
-
-q
-0.0 0.0 595.2756 841.8898 re
-W
-n
-1 0 0 1 0 0 cm
-BT
-/F1-0 12 Tf
-14.4 TL
-ET
-1 1 1 rg
-n
-35 728 525 113 re
-f*
-0 0 0 rg
-BT
-/F2-0 12.2 Tf
-14.64 TL
-ET
-BT
-1 0 0 1 52 820 Tm
-(EDUCATION) Tj
-T*
-ET
-0.45 w
-n
-52 815 m
-543 815 l
-S
-BT
-/F1-0 8.35 Tf
-10.02 TL
-ET
-BT
-1 0 0 1 52 795 Tm
-(KES\047 B\056K\056 Shroff College of Arts \046 M\056H\056 Shroff College of Commerce\054 Mumbai \055 B\056Sc\056 Information Technology \174 Expected 2027) Tj
-T*
-ET
-BT
-1 0 0 1 52 780 Tm
-(KES Shroff Junior College\054 Mumbai \055 HSC \055 79\05640\045 \174 Information Technology \046 Mathematics) Tj
-T*
-ET
-BT
-1 0 0 1 52 765 Tm
-(Swami Vivekanand International School\054 Kandivali\054 Mumbai \055 SSC \055 83\05600\045) Tj
-T*
-ET
-Q
-
-
-Q
-
-q
-0.0 0.0 595.2756 841.8898 re
-W
-n
-1 0 0 1 0 0 cm
-BT
-/F1-1 12 Tf
-14.4 TL
-ET
-1 1 1 rg
-n
-35 718 525 45 re
-f*
-0 0 0 rg
-BT
-/F2-1 12.2 Tf
-14.64 TL
-ET
-BT
-1 0 0 1 52 742 Tm
-(CERTIFICATIONS) Tj
-T*
-ET
-0.45 w
-n
-52 728 m
-543 728 l
-S
-Q
-
-
-endstream
 endobj
 16 0 obj
 <<
-/BaseFont /Helvetica
-/Encoding /WinAnsiEncoding
-/Name /F1
-/Subtype /Type1
-/Type /Font
+/Count 1 /Kids [ 13 0 R ] /Type /Pages
 >>
 endobj
 17 0 obj
 <<
-/BaseFont /Helvetica
-/Encoding /WinAnsiEncoding
-/Name /F1
-/Subtype /Type1
-/Type /Font
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 3899
 >>
-endobj
-18 0 obj
-<<
-/BaseFont /Helvetica-Bold
-/Encoding /WinAnsiEncoding
-/Name /F2
-/Subtype /Type1
-/Type /Font
->>
-endobj
-19 0 obj
-<<
-/BaseFont /Helvetica-Bold
-/Encoding /WinAnsiEncoding
-/Name /F2
-/Subtype /Type1
-/Type /Font
->>
+stream
+Gb!;g>BAN>&q801ka,"(B0eug"CtjL`l'4oKclOX:AJHP%5>&_d7PX1?*uoroZTimguQ(Q.D'C]dS+j\pX`dH$mmh#a&IQE!8q5lqk$P9/XXi!C`+glT"o=AmdG@3G%]!M:9S/L]=fg\JJSaD1>?s_%*RqCg*RZ=7]5!U69KaQURB((9pc,E\-6J?%W5EiBX;7hbtba)f;B\VoaaRAT7*+!57a;pE(4J1`ue^c$`<rTqWb12doZHMQ)e,TCLqP0YiPGRD&R""KiMWM%4QlC$(mD:2:PDaLV5F'`Jj\QIoQ#4Rq29[Jbl1h]%O@B/c=L?obs-BFs08<I,*UT=?'[;02q"[M(rXPO^8rbmh:b=>>gOQ)>9C8Y"6$%_p2O+p+4+i]BrT%btS@;e)6Cn)N7"D&^WT+rN#r!r7Nm"fB?DJC>BA[[XS0-'5/DO!=Y#qGQ0`8#kJLl#O9F-(_7ZJZQkL;@c,%W/,F0ATkus0Gtl3%h7"ba!e\CT[bZ#=SY#O&5P+][cY+5Vjc!KT_5j2P:-CU`(TN5mBUbl-FkSafn\Nm6Z=t7i0lh0^[BOF\_+j-*JiBJX./JMR\->"0N5kr2N/'*`mNU^UTAMsZ;NHP6DU@7E+JG.OnHShc6t8\RQ\)M)XoQ[DhleDZ\6!W:07cNRcWi>6!i]EL31c_5e6q2o2>BkJM;uT,'"-M*HO$(!7)U@N_&<!GnLLTTn=M,+8YR:,LW7q0(!6GfB3^)<>N[MsLGH[p&*Nl[5\_Gj4s6d//6$Y_gJOS5!@gs!-ml)^WI0*407=a(_Yn879at#lil2Z97u:<3&.9\4Gb,TTn.*3^_dhSVOAZL'pm080qBHQAq[!i3"eUr;<9'X1,sd&8&(',,fk!4:X815kUG82jPf?s#_U6Ac8@4g:5d@/q;Z'nO(%N$f!f'`1)O9aB0M>13A;?ce#KLJP62q(X0;F^EVeTtYf/&jKiq[bm>DhFGkH"7*:]ai?afBsuMV;$_9*V.hn+CoCa*\ql+=OA@L=3d/rFacA8EoIu(uL2S&'M3Z(OHCCVXDEY)PHQfS@ns3rFkkQ@*flGIC2\dHdB!sU;VYl!e]VB)F/iT(#$(MO4N_!nVJkcI@F:3*dptfFkflu=.frY3o^Rt>-1;qG";bH,RLU$mG>a!lB]8'#.50q1n4:\>H([^?:fbq%?OVb0t`8t.M,jgmKg)Z9Fo^O*t`]_@EJ\*G?gBMK0]qn6Y?c)nOTe1q,n0(KCSpH;iS]BCBWE?no7^rd7ZIgH!9I%pE"[>`]l0G%L3cLH&/ZR<&!5rPc@^W#nmkIRD_lNPX@Q^XE%7-(orn5pXktXI<SL&O4N6F$2*I@]e"P2Bh9S.R.SGJo1=X^O&k[R/8/:bgnRkJL_$D_09Cc/mI1fqd%GEcbnIj0VTF"bq4(u>4?<F(*)%l(IN'1"bHTfGVeboGPOf`Y/$N8]Hc>tZ5[jam(/TZcT>K5.@>H%KJJqqG+R+"_l0Z+$UB)uIG/J4XZnhT!K%9Nr06;=5863ap]$BRY<nlnk/tKE=_[-^SMIL8\N_2O@b=$3ZThIJU'Vh(SdE;VS0,ka&5*jlNM:n4or?f]h3Mt6*>29gJ/]hS_P37F^A#Re?U+J1FL"Y^h$#oNRqO-K+J[-8rM%Q$iUg3DNI-i/hp(C-*oLP@B\nII0oEQSE5*4k?(0-`J][Y!r11,C$.Ol']-gs@$IuQn&nhkjmJu:>P/9o+gU,)5d=E/dq)+64>1"P'D'gTCa1"tBA[hXB6@Cljd)s*n'.\%h&5V\fcknRA0kr)tI,QoA<F/j"6WSV%Rm1@Y2ED_V44In-E&b;/lXghr/&EC/5+)ll8=/q6?U0LTjZJ+@1ii]L]^79?5+//b-b`h,*WZmMg2,!#Bh!sg:6d+\(G$)Li[W]"hmK]b]=Lq,slrBc=+NQX-:HlP@3'-!3:Zk^)AEHd#J6u6D;E-6J!M!@Fl\"(-<?&&<gcZ*HF_S?`:"3Q$REbMQ#-q6HdHWV_W;l^eHB9mh?nApX'-rtZaJel<\\Smh+Am$L\gLX!$E\h,4I^&`+<JsPN@R-:4&;=lR(c^,8d/)nX!ETo0.WnLj/LS6MKjGO5SY9>g(HFhT!E.C@6L`8DI9c5H_oAj_@i%/$>(Sa,jQDsHkKuaAOWE=Eed4)Ks.[eCA2%u[nSQ5:8h-CC5e8sglPae+)2AcI6j^[DS-*P]7Za3;>a(tR_:Y=M&lLFcB^XH/U[gKb4RJ%=Lb/<240MnJkLJMoueloMb"c3f=4Ir4Q(hZ+KVaU&PVjO/ihN<5<bR$&ATTc9Du0%2hVJZPq7Qk7ak)H./2Z#Xg'-\l^(:lLHiNZ3ZO94rf;gP1uLHpfRO2m)C"X%+.BqDQGCkO9*+gn2-e[82gb6;H@?_;cpo=^)Iu1)l\0N(m%W/kQ/B0lU?=D'JqQBI>VLJSaXngLD1ms?(^N^0LGuj42ls7gEoRLLenWbLT,.M]),hYFeTETWZ+@a9e!6J`=W4k,lA:Q[W55"K6ldq*>$2m#,mtK;!'[sTWOThcS^n`\?=io$`B4iWa_H\:Q'J0%R1&M\aQk;s?d5f/8JK4hXJ]u1(-IJ=/^_dVI$Z@Jf\uZQgNlc*og#aF!BXBpd>t$'h!u=dV4P*LjX$uOMRrG(7(m3eHL;^;7O?(!ephP=)-c>-BX,&<s"XkkHH?i6jK@4[0!un/$354-(2AJ,7ELKrR39Bi5g1ABHn1\A4pu(1F`E`6TK3pYk,oWoQ%;1$HX3*c#Ce\m4dRlNSkC?naVCuCAejl-O^^<gjZPZ\F@.ZPQhONbTYpub0<I'<T%onZ*e#(#Vk`ji8o_'ZJ!iHFX,#^$31Q3jL0?Z_!5Ap_6mrEQN%YApMjVh&7<=:2THB'phSZ=4]^;`[D_uX:N)4f$WChZ@]BeOnrH;bP%aFo%RB^Z*=UhE1/OlX?L@n1[HUkc^(%QGAP\m6;Es$h[#KID$luXo8f_5#Hh6MrSDQ_s'1XKj5K9"=R"3n*g::QBR/?$5><d(Dm]2^E5qPAA9jD>F7P&l7D$,.Xf\O%.NOB1P"6DF8e3:;B>^BS'+WLR`L8G=lGX8*IMEcU2_Rms1C8+fR,:>`<;jlh.CU'ud?l0-SeUIsXVT4O;`mrQ@'fgQQ;L,1\uhLC9eZSgK:"p3rEo-f0`ll$.!r'[`ihVm18YQ%=tNY8!VhF@.4XHeU#^H\_IMKgtL@`0H&$6fMg&/-+]EV30728u%qr1VIok#aQ%.V.>i^j$RpSKIg&rDW(pj6SU0Bt*,3cadN!YKu<:I+Tm_eO:9gR.dk3q85'Mn<"n>Tk#<=I3-ZogA=&H5F6FU>[i-"/R`_.<Vmo4hp.umYW@mf4eX.[G7)'\6o+.Q#sbs#^IJ)5r9mB#.*o,I31MtKUG8K0IrILgINP-kc`0cpR.eZgPik^NXiBt'%+r:<<I&]RnDn,ir/s<gGn5q?7YL_\%lNLLWMDG)%r"F@TftsBHGX8rY2R6hjQD9T,EWZs9N6#K_JARHl]]RGk:tPZfdUJX/o$"/a^M@i)LY)_YF&^AF=^+l];o+`'cT4)b7Mc2.umIAk-BeR#J1M;o=?T5>8Y;iXmMr?(!.4T1,`^+WS0%udP,3'IQ?.kr!R!!;C660@ZCUF>okFkFg&N?O_"cB02]$sJha!%r6+5"V(I$7g&1)N",g6cjab::Sr3^@>E$.:cr[Y:B&Z9tI&q_L+4WrG0Qj7AjY4C5M!<skjl>j`anilKK`sn2r$r6.[E=5N13GbET,i@G*t9`/$)qL>2!8p$:fh#Ra[^f!21RO,B??kP`sde)Q6-6$fn0/+8*M]&P$nu*q<#K3LHA7]Pf7qE[pFg,0;GkKar/`r?=(LUbt`Q3*aWMsnTI=c[A_Gs&1.c#!KSK1aM!0W5RQuZ&'gQ?*r~>endstream
 endobj
 xref
-0 20
+0 18
 0000000000 65535 f 
-0000000015 00000 n 
-0000000054 00000 n 
-0000000120 00000 n 
-0000000169 00000 n 
-0000000446 00000 n 
-0000000621 00000 n 
-0000000818 00000 n 
-0000001019 00000 n 
-0000001246 00000 n 
-0000001472 00000 n 
-0000009849 00000 n 
-0000009957 00000 n 
-0000010065 00000 n 
-0000010178 00000 n 
-0000010465 00000 n 
-0000014992 00000 n 
-0000015100 00000 n 
-0000015208 00000 n 
-0000015321 00000 n 
+0000000061 00000 n 
+0000000112 00000 n 
+0000000219 00000 n 
+0000000331 00000 n 
+0000000531 00000 n 
+0000000716 00000 n 
+0000000899 00000 n 
+0000001106 00000 n 
+0000001221 00000 n 
+0000001415 00000 n 
+0000001611 00000 n 
+0000001805 00000 n 
+0000002001 00000 n 
+0000002270 00000 n 
+0000002340 00000 n 
+0000002642 00000 n 
+0000002703 00000 n 
 trailer
 <<
-/Size 20
-/Root 3 0 R
-/Info 1 0 R
+/ID 
+[<b7de07f0d0ff4d7f6ca547c58ee654db><b7de07f0d0ff4d7f6ca547c58ee654db>]
+% ReportLab generated PDF document -- digest (opensource)
+
+/Info 15 0 R
+/Root 14 0 R
+/Size 18
 >>
 startxref
-15434
+6694
 %%EOF
